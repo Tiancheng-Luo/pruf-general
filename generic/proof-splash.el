@@ -49,7 +49,10 @@ Proof General."
     (proof-get-image "ProofGeneral-splash.png")
     nil
     "Welcome to"
-    (concat proof-assistant " Proof General!")
+    (concat proof-assistant " Proof Generrrral!")
+    nil
+    "Those are my proofs, well... if you don't like them"
+    "I have others."
     nil
     (concat "Version " proof-general-short-version ".")
     nil
